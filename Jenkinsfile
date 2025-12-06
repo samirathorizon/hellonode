@@ -3,7 +3,7 @@ podTemplate(yaml: '''
 kind: Pod
 metadata:
   name: kaniko
-  namespace: samirtata
+  namespace: samir
 spec:
   containers:
   - name: shell
